@@ -1,0 +1,2 @@
+rootProject.name = "Fragment_Transition_Preclass"
+include ':app'
